@@ -1,0 +1,22 @@
+{
+  "name": "zoo-tracker",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Gyles Batara <gyles.batara@live.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.19.4",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
